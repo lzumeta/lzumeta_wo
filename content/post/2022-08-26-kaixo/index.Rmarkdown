@@ -1,0 +1,20 @@
+---
+title: Kaixo
+author: Lore Zumeta Olaskoaga
+date: '2022-08-26'
+slug: kaixo
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-08-26T23:32:04+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Kaixo!!

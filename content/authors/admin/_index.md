@@ -67,6 +67,6 @@ highlight_name: true
 
 I am a PhD student at the [BCAM - Basque Center for Applied Mathematics](http://www.bcamath.org) in the [Applied Statistics Group](http://www.bcamath.org/en/research/lines/AS) under the supervision of Dr. [Dae-Jin Lee](http://idaejin.github.io). I am interested in statistical modelling research, software development and applications of statistics, in particular, to the fields of Sports Medicine, Epidemiology and Biomedicine.
 
-My PhD project seeks to develop statistical methods for the estimation of injury risk and incidence in the context of professional sport (football) by means of semi-parametric recurrent time-to-event data methods. It is supported by the Severo Ochoa predoctoral fellowship (MICINN, Spain).
+My PhD project aims to develop statistical methods and software for the estimation of injury risk and incidence in the context of professional sport (football), focusing on framework of recurrent time-to-event data analysis. It is supported by the Severo Ochoa predoctoral fellowship (MICINN, Spain).
 
 [comment]: <> ({{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.)

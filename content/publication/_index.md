@@ -15,5 +15,5 @@ view: 4
 # Optional header image (relative to `assets/media/` folder).
 header:
   caption: ''
-  image: 'header_sea3.jpg'
+  image: ''
 ---

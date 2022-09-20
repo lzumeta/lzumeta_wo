@@ -1,6 +1,6 @@
 ---
 title: "A multi-state model for the prognosis of non-mild acute pancreatitis"
-authors: ["Lore Zumeta Olaskoaga", "Felix Zubia Olaskoaga", "Marta Bofill Roig", "Guadalupe Gómez Melis"]
+authors: ["Lore Zumeta Olaskoaga", "Felix Zubia Olaskoaga", "Guadalupe Gómez Melis"]
 date: '2018-07-08'
 # date_end: '2018-07-08'
 publishDate: '2022-09-15T12:43:45-08:00'

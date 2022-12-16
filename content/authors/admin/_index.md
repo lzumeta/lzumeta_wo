@@ -11,7 +11,7 @@ role: PhD Student in Applied Statistics
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: BCAM - Basque Center for Applied Mathematics
-    url: https://www.bcamath.org/
+    url: http://www.bcamath.org
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include survival analysis, mixed models and GAMs.

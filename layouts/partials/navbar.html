@@ -98,10 +98,9 @@
 
         {{ end }}
 
-        {{ $show_search := site.Params.header.navbar.show_search | default true }}
-        {{ if and site.Params.features.search.provider $show_search }}
+        {{ if site.Params.search.engine }}
         <li class="nav-item">
-          <a class="nav-link js-search" href="#" aria-label="{{ i18n "search" }}"><i class="fas fa-search" aria-hidden="true"></i></a>
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
         </li>
         {{ end }}
 
@@ -133,4 +132,3 @@
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container -->
 </nav>
-

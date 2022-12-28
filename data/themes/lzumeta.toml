@@ -1,0 +1,22 @@
+# Theme metadata
+name = "lzumeta"
+
+[light]
+  # Primary
+  primary = "#1565c0"
+
+ # links
+  link = "#1565C0"
+  link_hover = "#F5B301"
+  
+  # Menu
+  menu_primary = "#fff"
+  menu_text = "#34495e"
+  menu_text_active = "#F5B301"
+  menu_title = "#2b2b2b"
+  menu_link = "#F5B301"
+  menu_link_hover = "#F5B301"
+  
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(247, 247, 247)"

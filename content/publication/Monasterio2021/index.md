@@ -92,4 +92,4 @@ slides: ""
 
 - Football academies should regularly assess the maturity status and timing of young football players, as the impact of injuries varies with maturation status and timing.
 
-- Management of the maturity-related injury risk profile, in combination with other relevant factors (training load, neuromuscular and biomechanical factors, physiotherapy, coaching, communication, psychosocial factors …), might help improve the success of player development programmes and protect the health of young football players.
+- Management of the maturity-related injury risk profile, in combination with other relevant factors (training load, neuromuscular and biomechanical factors, physiotherapy, coaching, communication, psychosocial factors…), might help improve the success of player development programmes and protect the health of young football players.

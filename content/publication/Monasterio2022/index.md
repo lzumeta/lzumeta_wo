@@ -21,7 +21,7 @@ authors:
 
 
 date: '2022-11-21T00:00:00Z'
-doi: 'https://doi.org/10.1055/a-1983-676'
+doi: 'https://doi.org/10.1055/a-1983-6762'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'

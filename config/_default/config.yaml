@@ -13,8 +13,26 @@ baseURL: 'https://lzumeta.eus' # Website URL
 
 defaultContentLanguage: en
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 removePathAccents: true
+languages:
+  en:
+    contentDir: content/en
+    disabled: false
+    languageCode: en-US
+    languageDirection: ltr
+    languageName: Eng
+    weight: 1
+  eu:
+    contentDir: content/eu
+    disabled: false
+    languageCode: eu-ES
+    languageDirection: ltr
+    languageName: Eus
+    weight: 2
+
+
+
 
 ############################
 ## MODULES

@@ -1,0 +1,36 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Hasiera
+    url: '#about'
+    weight: 10
+    # - name: Posts
+    #   url: '#posts'
+    #   weight: 20
+  - name: Argitalpenak
+    url: 'publication/'
+    weight: 20
+  - name: Hitzaldiak
+    url: 'event/'
+    weight: 30
+  - name: Proiektuak
+    url: 'projects/'
+    weight: 40
+  # - name: Outreach
+  #   url: 'outreach/'
+  #   weight: 50
+  - name: Niri buruz +
+    url: 'resume/'
+    weight: 60
+  # - name: Contact
+    #   url: '#contact'
+    #   weight: 70
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+#  - name: CV
+#    url: uploads/resume.pdf
+#    weight: 70

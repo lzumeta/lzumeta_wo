@@ -65,7 +65,7 @@ email: ''
 highlight_name: true
 ---
 
-Doktoregaia naiz [BCAM - Basque Center for Applied Mathematics](http://www.bcamath.org) ikerketa zentruko [Applied Statistics (AS)](https://www.bcamath.org/en/research/areas/ds/as) (Estatistika Apliatua) taldean, [Dae -Jin Lee](http://idaejin.github.io)-ren gidaritzapean. Modelizazio estatistikoaren ikerketa, software-aren garapena eta estatistikak dituen aplikazioak interesatzen zaizkit. Batez ere, kirol medikuntzaren, epidemiologiaren eta biomedikuntzaren arloetan kokatzen diren aplikazioak.
+Kaixo! Doktoretza tesia egiten ari naiz [BCAM - Basque Center for Applied Mathematics](http://www.bcamath.org) ikerketa zentruko [Applied Statistics (AS)](https://www.bcamath.org/en/research/areas/ds/as) (Estatistika Apliatua) taldean, [Dae -Jin Lee](http://idaejin.github.io)-ren gidaritzapean. Modelizazio estatistikoaren ikerketa, software-aren garapena eta estatistikak dituen aplikazioak interesatzen zaizkit. Batez ere, kirol medikuntzaren, epidemiologiaren eta biomedikuntzaren arloetan kokatzen diren aplikazioak.
 
 Nire doktorego-proiektuaren (PhD) helburua da metodo estatistikoak eta softwarea garatzea, lesioek kirol profesionalean (futbolean) duten arriskua eta eragina estimatzeko. Horretarako, "recurrent time-to-event data analysis" delakoaren arlo espezifikoan ikertzen dut. Proiektuak Severo Ochoa doktorego aurreko bekaren laguntza du (MICINN, Espainia).
 

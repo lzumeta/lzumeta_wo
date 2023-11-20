@@ -34,5 +34,5 @@ slides: ""
 `injurytools` **R** software libreko pakete bat da. Kirol medikuntzara bideratuta dago. Berariazko funtzio eta tresna egokiak eskaintzen ditu kirol-lesioen datu analisia errazteko.
 
 - Erabilerari, funtzionaltasunei eta dokumentazioari buruzko informazio gehiago: [https://lzumeta.github.io/injurytools/](https://lzumeta.github.io/injurytools/)
-- Kodigo-iturria: https://github.com/lzumeta/injurytools
+- Jatorrizko kodea: https://github.com/lzumeta/injurytools
 

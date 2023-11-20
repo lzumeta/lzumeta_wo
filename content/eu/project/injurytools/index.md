@@ -1,6 +1,6 @@
 ---
 title: injurytools
-summary: A toolkit for sports injury data analysis
+summary: Kirol-lesioen datuak aztertzeko **R**-ko paketea
 tags:
   - R packages
 date: '2022-09-20T00:00:00Z'
@@ -31,8 +31,8 @@ url_video: ''
 slides: ""
 ---
 
-`injurytools` is an **R** package aimed at Sports Medicine: it facilitates the data analysis workflow by providing convenience functions and handy tools for sports injury data.
+`injurytools` **R** software libreko pakete bat da. Kirol medikuntzara bideratuta dago. Berariazko funtzio eta tresna egokiak eskaintzen ditu kirol-lesioen datu analisia errazteko.
 
-- More about the usage, functionalities and documentation: [https://lzumeta.github.io/injurytools/](https://lzumeta.github.io/injurytools/)
-- The source code: https://github.com/lzumeta/injurytools
+- Erabilerari, funtzionaltasunei eta dokumentazioari buruzko informazio gehiago: [https://lzumeta.github.io/injurytools/](https://lzumeta.github.io/injurytools/)
+- Kodigo-iturria: https://github.com/lzumeta/injurytools
 

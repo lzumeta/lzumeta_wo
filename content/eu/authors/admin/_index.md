@@ -26,10 +26,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Estatistika eta Ikerketa Operatiboa, masterra
+    - course: Estatistika eta Ikerketa Operatiboan Masterra
       institution: Universitat Politècnica de Catalunya and Universitat de Barcelona (UPC and UB)
       year: 2018
-    - course: Matematika, gradua
+    - course: Matematikako Gradua
       institution: Euskal Herriko Unibertsitatea / Universidad del País Vasco (UPV/EHU) 
       year: 2016
 
@@ -65,8 +65,8 @@ email: ''
 highlight_name: true
 ---
 
-Kaixo! Doktoretza tesia egiten ari naiz [BCAM - Basque Center for Applied Mathematics](http://www.bcamath.org) ikerketa zentruko [Applied Statistics (AS)](https://www.bcamath.org/en/research/areas/ds/as) (Estatistika Apliatua) taldean, [Dae -Jin Lee](http://idaejin.github.io)-ren gidaritzapean. Modelizazio estatistikoaren ikerketa, software-aren garapena eta estatistikak dituen aplikazioak interesatzen zaizkit. Batez ere, kirol medikuntzaren, epidemiologiaren eta biomedikuntzaren arloetan kokatzen diren aplikazioak.
+Kaixo! Doktoretza tesia egiten ari naiz [BCAM - Basque Center for Applied Mathematics](http://www.bcamath.org) ikerketa zentroko [Applied Statistics (AS)](https://www.bcamath.org/en/research/areas/ds/as) (Estatistika Apliatua) taldean, [Dae -Jin Lee](http://idaejin.github.io)-ren gidaritzapean. Modelizazio estatistikoaren ikerketa, software-aren garapena eta estatistikak dituen aplikazioak interesatzen zaizkit. Batez ere, kirol medikuntzaren, epidemiologiaren eta biomedikuntzaren arloetan kokatzen diren aplikazioak.
 
-Nire doktorego-proiektuaren (PhD) helburua da metodo estatistikoak eta softwarea garatzea, lesioek kirol profesionalean (futbolean) duten arriskua eta eragina estimatzeko. Horretarako, "recurrent time-to-event data analysis" delakoaren arlo espezifikoan ikertzen dut. Proiektuak Severo Ochoa doktorego aurreko bekaren laguntza du (MICINN, Espainia).
+Nire doktorego-proiektuaren helburua da metodo estatistikoak eta softwarea garatzea, lesioek kirol profesionalean (futbolean) duten arriskua eta eragina estimatzeko. Horretarako, "recurrent time-to-event data analysis" delakoaren arlo espezifikoan ikertzen dut. Proiektuak Severo Ochoa doktorego aurreko bekaren laguntza du (MICINN, Espainia).
 
 [comment]: <> ({{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.)

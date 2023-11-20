@@ -45,7 +45,7 @@ subtitle = ""
  css_class = ""
 +++
 
-#### Konputazionala:
+#### Konputazionalak:
 
 - Programazio hizkuntzak: R software, SAS, SQL, MATLAB
 - Diseinua: LaTeX, Markdown, HTML

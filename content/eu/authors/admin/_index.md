@@ -6,12 +6,12 @@ title: Lore Zumeta Olaskoaga
 superuser: true
 
 # Role/position/tagline
-role: PhD doktoregaia Estatistika Aplikatuan
+role: Bioestatistika ikerlaria
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: BCAM - Basque Center for Applied Mathematics
-    url: http://www.bcamath.org
+  - name: Biogipuzkoa Euskal Osasun Ikerkuntza
+    url: https://www.biodonostia.org/eu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Nire ikerketa-interesak, estatistikaren baitan, biziraupeneko analisia, eredu mixtoak eta GAM ereduak dira.
@@ -26,6 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Matematika eta Estatistikan doktoregoa (PhD)
+      institution: Euskal Herriko Unibertsitatea / Universidad del País Vasco (UPV/EHU)
+      year: 2024
     - course: Estatistika eta Ikerketa Operatiboan Masterra
       institution: Universitat Politècnica de Catalunya and Universitat de Barcelona (UPC and UB)
       year: 2018
@@ -40,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:lzumeta@bcamath.org'
+    link: 'mailto:lore.zumetaolaskoaga@bio-gipuzkoa.eus'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/lorezmt
@@ -65,8 +68,9 @@ email: ''
 highlight_name: true
 ---
 
-Kaixo! Doktoretza tesia egiten ari naiz [BCAM - Basque Center for Applied Mathematics](http://www.bcamath.org) ikerketa zentroko [Applied Statistics (AS](https://www.bcamath.org/en/research/areas/ds/as), Estatistika Aplikatua) taldean, [Dae -Jin Lee](http://idaejin.github.io)-ren gidaritzapean. Modelizazio estatistikoaren ikerketa, software-aren garapena eta estatistikak dituen aplikazioak interesatzen zaizkit. Batez ere, kirol medikuntzaren, epidemiologiaren eta biomedikuntzaren arloetan kokatzen diren aplikazioak.
+Kaixo! Bioestatistikan ikerlaria naiz [Biogipuzkoa Euskal Osasun Ikerkuntza](https://www.biodonostia.org/eu/) zentroko [Lehen Mailako Arreta eta ESI-ak](https://www.biodonostia.org/eu/areas_investigacion/epidemiologia-eta-osasun-publikoaren/lehen-mailako-arreta/) ikerketa taldean. Modelizazio estatistikoaren ikerketa, softwarearen garapena eta estatistikak dituen aplikazioak interesatzen zaizkit. Batez ere, kirol medikuntzaren, epidemiologiaren eta biomedikuntzaren arloetan kokatzen diren aplikazioak.
 
-Nire doktorego-proiektuaren helburua da metodo estatistikoak eta softwarea garatzea, lesioek kirol profesionalean (futbolean) duten arriskua eta eragina estimatzeko. Horretarako, "recurrent time-to-event data analysis" delakoaren arlo espezifikoan ikertzen dut. Proiektuak Severo Ochoa doktorego aurreko bekaren laguntza du (MICINN, Espainia).
+Matematika eta Estatistikan doktorea naiz. Doktore tesian metodo estatistikoen eta softwarearen garapenean egin nuen lan, lesioek futbol profesionalean duten arriskua eta eragina estimatzeko.
+
 
 [comment]: <> ({{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.)

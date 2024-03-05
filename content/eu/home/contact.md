@@ -25,7 +25,7 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: lzumeta@bcamath.org
+  email: lore.zumetaolaskoaga@bio-gipuzkoa.eus
 
 design:
   columns: '2'

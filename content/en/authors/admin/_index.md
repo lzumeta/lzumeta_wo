@@ -6,12 +6,12 @@ title: Lore Zumeta Olaskoaga
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Applied Statistics
+role: Biostatistician researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: BCAM - Basque Center for Applied Mathematics
-    url: http://www.bcamath.org
+  - name: Biogipuzkoa Health Research Institute
+    url: https://www.biodonostia.org/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include survival analysis, mixed models and GAMs.
@@ -26,6 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Mathematics and Statistics
+      institution: Euskal Herriko Unibertsitatea / Universidad del País Vasco (UPV/EHU)
+      year: 2024
     - course: MSc in Statistics and Operations Research
       institution: Universitat Politècnica de Catalunya and Universitat de Barcelona (UPC and UB)
       year: 2018
@@ -40,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:lzumeta@bcamath.org'
+    link: 'mailto:lore.zumetaolaskoaga@bio-gipuzkoa.eus'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/lorezmt
@@ -65,8 +68,8 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD student at the [BCAM - Basque Center for Applied Mathematics](http://www.bcamath.org) in the [Applied Statistics Group](https://www.bcamath.org/en/research/areas/ds/as) under the supervision of Dr. [Dae-Jin Lee](http://idaejin.github.io). I am interested in statistical modelling research, software development and applications of statistics, in particular, to the fields of Sports Medicine, Epidemiology and Biomedicine.
+I am a Biostatistician researcher at the [Biogipuzkoa Health Research Institute](https://www.biodonostia.org/en/) in the [Primary Healthcare and IHOs](https://www.biodonostia.org/en/areas_investigacion/epidemiology-and-public-health/primary-care/) group. I am interested in statistical modelling research, software development and applications of statistics, in particular, to the fields of Sports Medicine, Epidemiology and Biomedicine.
 
-My PhD project aims to develop statistical methods and software for the estimation of injury risk and incidence in the context of professional sport (football), focusing on the framework of recurrent time-to-event data analysis. The project is supported by the Severo Ochoa predoctoral fellowship (MICINN, Spain).
+I obtained a PhD in Mathematics and Statistics. My PhD focused on the development of statistical methods and software for the estimation of injury risk and incidence in the context of professional football. 
 
 [comment]: <> ({{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.)

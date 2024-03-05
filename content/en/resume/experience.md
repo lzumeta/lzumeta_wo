@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Biostatistician researcher
+    company: Biogipuzkoa Health Research Institute
+    company_url: 'https://www.biodonostia.org/en/'
+    company_logo: logo_biogipuzkoa
+    location: Donostia
+    date_start: '2024-03-04'
+    date_end: ''
+    # description: FILL
 
   - title: PhD Student in Applied Statistics
     company: Euskal Herriko Unibertsitatea / Universidad del País Vasco & BCAM
@@ -29,7 +37,7 @@ experience:
     company_logo: logo_bcam-ehu
     location: Bilbo
     date_start: '2019-09-01'
-    date_end: ''
+    date_end: '2024-02-16'
     # description: FILL
     
   - title: Research Stay (within my PhD)

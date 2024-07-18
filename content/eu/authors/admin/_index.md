@@ -10,7 +10,7 @@ role: Bioestatistika ikerlaria
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Biogipuzkoa Euskal Osasun Ikerkuntza
+  - name: Biogipuzkoa Osasun Ikerketa Institutua
     url: https://www.biodonostia.org/eu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -68,7 +68,7 @@ email: ''
 highlight_name: true
 ---
 
-Kaixo! Bioestatistikan ikerlaria naiz [Biogipuzkoa Euskal Osasun Ikerkuntza](https://www.biodonostia.org/eu/) zentroko [Lehen Mailako Arreta eta ESI-ak](https://www.biodonostia.org/eu/areas_investigacion/epidemiologia-eta-osasun-publikoaren/lehen-mailako-arreta/) ikerketa taldean. Modelizazio estatistikoaren ikerketa, softwarearen garapena eta estatistikak dituen aplikazioak interesatzen zaizkit. Batez ere, kirol medikuntzaren, epidemiologiaren eta biomedikuntzaren arloetan kokatzen diren aplikazioak.
+Kaixo! Bioestatistikan ikerlaria naiz [Biogipuzkoa Osasun Ikerketa Institutua](https://www.biodonostia.org/eu/) zentroko [Laguntza Metodologikorako Unitatean](https://www.biodonostia.org/eu/laguntza-unitateak-zerbitzuak/laguntza-metodologikoaren-unitatea/). Modelizazio estatistikoaren ikerketa, softwarearen garapena eta estatistikak dituen aplikazioak interesatzen zaizkit. Batez ere, kirol medikuntzaren, epidemiologiaren eta biomedikuntzaren arloetan kokatzen diren aplikazioak.
 
 Matematika eta Estatistikan doktorea naiz. Doktore tesian metodo estatistikoen eta softwarearen garapenean egin nuen lan, lesioek futbol profesionalean duten arriskua eta eragina estimatzeko.
 

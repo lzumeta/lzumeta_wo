@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Bioestatistika ikerlaria
-    company: Biogipuzkoa Euskal Osasun Ikerkuntza
+    company: Biogipuzkoa Osasun Ikerketa Institutua
     company_url: 'https://www.biodonostia.org/eu/'
     company_logo: logo_biogipuzkoa
     location: Donostia

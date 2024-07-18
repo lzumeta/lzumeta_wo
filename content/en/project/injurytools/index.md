@@ -1,6 +1,6 @@
 ---
 title: injurytools
-summary: A toolkit for sports injury data analysis
+summary: A toolkit for sports injury and illness data analysis
 tags:
   - R packages
 date: '2022-09-20T00:00:00Z'
@@ -31,7 +31,7 @@ url_video: ''
 slides: ""
 ---
 
-`injurytools` is an **R** package aimed at Sports Medicine: it facilitates the data analysis workflow by providing convenience functions and handy tools for sports injury data.
+`injurytools` is an **R** package aimed at Sports Medicine: it facilitates the data analysis workflow by providing convenience functions and handy tools for sports injury and illness data.
 
 - More about the usage, functionalities and documentation: [https://lzumeta.github.io/injurytools/](https://lzumeta.github.io/injurytools/)
 - The source code: https://github.com/lzumeta/injurytools

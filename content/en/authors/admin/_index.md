@@ -6,7 +6,7 @@ title: Lore Zumeta Olaskoaga
 superuser: true
 
 # Role/position/tagline
-role: Biostatistician researcher
+role: Biostatistical researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -68,7 +68,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a Biostatistician researcher at the [Biogipuzkoa Health Research Institute](https://www.biodonostia.org/en/) in the [Methodological Support Unit](https://www.biodonostia.org/en/support-units-services/methodological-support-unit/). I am interested in statistical modelling research, software development and applications of statistics, in particular, to the fields of Sports Medicine, Epidemiology and Biomedicine.
+I am a Biostatistical researcher at the [Biogipuzkoa Health Research Institute](https://www.biodonostia.org/en/) in the [Methodological Support Unit](https://www.biodonostia.org/en/support-units-services/methodological-support-unit/). I am interested in statistical modelling research, software development and applications of statistics, in particular, to the fields of Sports Medicine, Epidemiology and Biomedicine.
 
 I obtained a PhD in Mathematics and Statistics. My PhD focused on the development of statistical methods and software for the estimation of injury risk and incidence in the context of professional football. 
 

@@ -76,6 +76,6 @@ slides: ""
 ---
 
 
-Hemen [Supplementary Material-a](https://github.com/lzumeta/flex-mod-training-loads-recu-injuries/blob/main/Supplementary_material.pdf)
+Hemen artikuluaren [Supplementary Material-a](https://github.com/lzumeta/flex-mod-training-loads-recu-injuries/blob/main/Supplementary_material.pdf)
 eta beste honetan
-[kodigoaren errepositorioa](https://github.com/lzumeta/flex-mod-training-loads-recu-injuries/) for the paper.
+[kodigoaren errepositorioa](https://github.com/lzumeta/flex-mod-training-loads-recu-injuries/).

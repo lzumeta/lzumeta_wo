@@ -38,7 +38,9 @@ experience:
     location: Bilbo
     date_start: '2019-09-01'
     date_end: '2024-02-16'
-    # description: FILL
+    description: |
+      <a href="https://bird.bcamath.org/bitstream/handle/20.500.11824/1736/PhDThesis_Zumeta-Olaskoaga_Lore.pdf" class="btn btn-secondary"><i class="fas fa-download"></i> **Tesi disertazioa**</a>
+
     
   - title: Research Stay (within my PhD)
     company: LMU Ludwig-Maximilians-Universität München, Department of Statistics 

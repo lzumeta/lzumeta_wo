@@ -43,7 +43,7 @@ A total of 11 patients (mean age: 67 ± 9.6 years) completed the study. Exer
 **Conclusions**<br>
 The use of NIV, particularly the PS mode, during exercise significantly improved exercise duration in patients with HF compared to CPAP or no ventilatory support.
 **Key words**<br> 
-exercise; heart failure; dyspnea; sports and exercise medicine; exercise therapy
+exercise; heart failure; dyspnea; sports and exercise medicine; exercise therapy'
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

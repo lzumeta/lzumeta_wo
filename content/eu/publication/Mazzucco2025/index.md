@@ -41,7 +41,7 @@ A randomised crossover trial was conducted in patients with HF, reduced ejection
 **Results**<br>
 A total of 11 patients (mean age: 67 ± 9.6 years) completed the study. Exercise duration was significantly longer in the pressure support group (9.8 ± 6.2 minutes) compared to the CPAP group (8.9 ± 6.0 minutes) and the control group (7.3 ± 6.2 minutes) (p = 0.043). No significant differences were found in average heart rate (HR), final HR, or oxygen saturation (SpO₂) between the groups (p > 0.05). Similarly, dyspnea and leg fatigue (modified Borg scale) showed no statistically significant differences between conditions (p > 0.05).<br>
 **Conclusions**<br>
-The use of NIV, particularly the PS mode, during exercise significantly improved exercise duration in patients with HF compared to CPAP or no ventilatory support.
+The use of NIV, particularly the PS mode, during exercise significantly improved exercise duration in patients with HF compared to CPAP or no ventilatory support.<br>
 **Key words**<br> 
 exercise; heart failure; dyspnea; sports and exercise medicine; exercise therapy'
 

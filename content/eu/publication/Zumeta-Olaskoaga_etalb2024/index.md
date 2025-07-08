@@ -88,4 +88,4 @@ slides: ""
 ---
 
 
-Find here the [Supplementary Material](TOWRITE).
+Find here the [Supplementary Material](https://www.valueinhealthjournal.com/article/S1098-3015(24)06797-4/fulltext#supplementary-material).

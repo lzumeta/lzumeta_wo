@@ -8,7 +8,7 @@ slug: statistical-modelling-for-time-to-event
 
 event: I Congreso Virtual de la Sociedad Española de Epidemiología (SEE) y da Associação Portuguesa de Epidemiologia (APE)
 event_url: https://seepidemiologia.es/i-congreso-virtual-de-la-sociedad-espanola-de-epidemiologia-see-y-de-la-associacao-portuguesa-de-epidemiologia-ape/
-location: Bilbao (Online)
+location: Bilbo (Online)
 
 all_day: true
 ---

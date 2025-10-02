@@ -68,7 +68,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a Biostatistical researcher at the [Biogipuzkoa Health Research Institute](https://www.biodonostia.org/en/) in the [Methodological Support Unit](https://www.biodonostia.org/en/support-units-services/methodological-support-unit/). I am interested in statistical modelling research, software development and applications of statistics, in particular, to the fields of Sports Medicine, Epidemiology and Biomedicine.
+I am a Biostatistical researcher at the [Biogipuzkoa Health Research Institute](https://www.biodonostia.org/en/) in the [Methodological Support Unit](https://www.biodonostia.org/en/support-units-services/methodological-support-unit/) and lecturer at the [Universidad de Deusto](https://www.deusto.es/en/home), in the [Faculty of Health Sciences](https://www.deusto.es/en/home/study/courses/bachelors-degree/physiotherapy?_ga=2.259730383.418540566.1758983551-1478737693.1758983551). I am interested in statistical modelling research, software development and applications of statistics, in particular, to the fields of Sports Medicine, Epidemiology and Biomedicine.
 
 I obtained a PhD in Mathematics and Statistics. My PhD focused on the development of statistical methods and software for the estimation of injury risk and incidence in the context of professional football. 
 

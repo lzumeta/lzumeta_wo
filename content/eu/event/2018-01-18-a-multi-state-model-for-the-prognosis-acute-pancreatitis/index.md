@@ -8,7 +8,7 @@ slug: a-multi-state-model-for-the-prognosis-acute-pancreatitis
 
 event: III Jornadas Científicas de Estudiantes de la SEB (JSEB 2018)
 event_url: http://www.biometricsociety.net/jornadas-anteriores/
-location: Bilbao
+location: Bilbo
 
 all_day: true
 ---

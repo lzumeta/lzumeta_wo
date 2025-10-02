@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: University lecturer
+    company: Universidad de Deusto
+    company_url: 'https://www.deusto.es/en/home'
+    company_logo: logo_deusto
+    location: Donostia
+    date_start: '2024-09-09'
+    date_end: ''
+    # description: FILL
+
   - title: Biostatistical researcher
     company: Biogipuzkoa Health Research Institute
     company_url: 'https://www.biodonostia.org/en/'

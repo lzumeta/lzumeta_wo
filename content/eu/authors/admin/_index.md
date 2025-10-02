@@ -68,7 +68,7 @@ email: ''
 highlight_name: true
 ---
 
-Kaixo! Bioestatistikan ikerlaria naiz [Biogipuzkoa Osasun Ikerketa Institutua](https://www.biodonostia.org/eu/) zentroko [Laguntza Metodologikorako Unitatean](https://www.biodonostia.org/eu/laguntza-unitateak-zerbitzuak/laguntza-metodologikoaren-unitatea/). Modelizazio estatistikoaren ikerketa, softwarearen garapena eta estatistikak dituen aplikazioak interesatzen zaizkit. Batez ere, kirol medikuntzaren, epidemiologiaren eta biomedikuntzaren arloetan kokatzen diren aplikazioak.
+Kaixo! Bioestatistikan ikerlaria naiz [Biogipuzkoa Osasun Ikerketa Institutua](https://www.biodonostia.org/eu/) zentroko [Laguntza Metodologikorako Unitatean](https://www.biodonostia.org/eu/laguntza-unitateak-zerbitzuak/laguntza-metodologikoaren-unitatea/) eta unibertsitateko irakaslea [Deustuko Unibertsitatean](https://www.deusto.eus/eu/hasiera), [Osasun Zientzien Fakultatean](https://www.deusto.eus/eu/hasiera/ikasi/ikasketak/gradua/fisioterapia). Modelizazio estatistikoaren ikerketa, softwarearen garapena eta estatistikak dituen aplikazioak interesatzen zaizkit. Batez ere, kirol medikuntzaren, epidemiologiaren eta biomedikuntzaren arloetan kokatzen diren aplikazioak.
 
 Matematika eta Estatistikan doktorea naiz. Doktore tesian metodo estatistikoen eta softwarearen garapenean egin nuen lan, lesioek futbol profesionalean duten arriskua eta eragina estimatzeko.
 

@@ -10,6 +10,12 @@ event: 37th International Workshop on Statistical Modelling (IWSM 2023)
 event_url: https://iwsm2023.statistik.tu-dortmund.de/
 location: Dortmund
 
+links:
+- icon: file-pdf
+  icon_pack: fas
+  name: Slides PDF
+  url: https://drive.google.com/file/d/1zMS4LxDMOTVcslwA7YXJyu5asS5JOvHL/view?usp=sharing
+
 all_day: true
 ---
 

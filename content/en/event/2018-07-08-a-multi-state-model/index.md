@@ -10,5 +10,11 @@ event: XXIXth International Biometric Conference (IBC 2018)
 event_url: http://2018.biometricconference.org/
 location: Barcelona
 
+links:
+- icon: file-pdf
+  icon_pack: fas
+  name: Slides PDF
+  url: https://drive.google.com/file/d/1wh98qDwkaAfvnwFwQ31_QfG_1EIuDR9N/view?usp=sharing
+
 all_day: true
 ---

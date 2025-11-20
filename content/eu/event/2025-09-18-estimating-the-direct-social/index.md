@@ -10,6 +10,12 @@ event: XX Conferencia Española de Bioestadística (CEB 2025)
 event_url: https://ceb2025.umh.es/
 location: Elx
 
+links:
+- icon: file-pdf
+  icon_pack: fas
+  name: Poster PDF
+  url: https://drive.google.com/file/d/12gCZbBzKf-I0Isu2yyGQ06r5XVRZjf12/view?usp=sharing
+
 all_day: true
 ---
   

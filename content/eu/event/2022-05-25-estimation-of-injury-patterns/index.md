@@ -10,5 +10,11 @@ event: XVIII Congreso de Biometría (CEB 2022)
 event_url: http://halweb.uc3m.es/cebmadrid/index.html
 location: Madrid
 
+links:
+- icon: file-pdf
+  icon_pack: fas
+  name: Slides PDF
+  url: https://drive.google.com/file/d/1Uep_5l0BKFJCnDLnLHb87XsXTqrEHiaZ/view?usp=sharing
+
 all_day: true
 ---

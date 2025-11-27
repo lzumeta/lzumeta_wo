@@ -40,7 +40,7 @@ experience:
     date_end: ''
     # description: FILL
 
-  - title: PhD Student in Applied Statistics
+  - title: PhD Estatistika Aplikatuan
     company: Euskal Herriko Unibertsitatea / Universidad del País Vasco & BCAM
     company_url: 'https://www.ehu.eus/eu/web/doktoregoa/matematika-estatistika-doktoregoa'
     company_logo: logo_bcam-ehu

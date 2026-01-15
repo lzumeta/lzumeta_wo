@@ -80,6 +80,6 @@ slides: ""
 ---
 
 
-Find here the [Supplementary Material](https://journals.sagepub.com/doi/suppl/10.1177/22150218251384557/suppl_file/sj-docx-1-san-10.1177_22150218251384557.docx)
-and the accompanying 
-[code repository](https://github.com/marticasals/GLMM_SR_Sports) for the paper.
+Hemen artikuluari lotutako [Material Osagarria](https://journals.sagepub.com/doi/suppl/10.1177/22150218251384557/suppl_file/sj-docx-1-san-10.1177_22150218251384557.docx)
+eta 
+[kodigo errepositorioa](https://github.com/marticasals/GLMM_SR_Sports).

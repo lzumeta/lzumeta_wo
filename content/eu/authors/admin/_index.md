@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:lore.zumetaolaskoaga@bio-gipuzkoa.eus'
+    link: 'mailto:lorezumeta@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/lorezmt

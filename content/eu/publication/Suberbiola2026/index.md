@@ -8,7 +8,7 @@ authors:
   - Iñigo Suberbiola
   - Ana Casado
   - Idoia de la Caba
-  - Javier Calbo
+  - Javier Calvo
   - admin
   - Maddi Aramburu
   - Nerea Moreno

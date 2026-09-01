@@ -6,12 +6,12 @@ title: Lore Zumeta Olaskoaga
 superuser: true
 
 # Role/position/tagline
-role: Bioestatistika ikerlaria
+role: Bioestatistikaria, PhD
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Biogipuzkoa Osasun Ikerketa Institutua
-    url: https://www.biodonostia.org/eu/
+  - name: Deustuko Unibertsitatea
+    url: https://www.deusto.eus/eu/hasiera
 
 # Short bio (displayed in user profile at end of posts)
 bio: Nire ikerketa-interesak, estatistikaren baitan, biziraupeneko analisia, eredu mixtoak eta GAM ereduak dira.
@@ -43,16 +43,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:lore.zumeta-olaskoaga@bio-gipuzkoa.eus'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/lorezmt
+    link: 'mailto:lore.zumeta@deusto.es'
   - icon: github
     icon_pack: fab
     link: https://github.com/lzumeta
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-6141-1469
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/lore-zumeta-olaskoaga-666406283/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -68,9 +68,9 @@ email: ''
 highlight_name: true
 ---
 
-Kaixo! Bioestatistikan ikerlaria naiz [Biogipuzkoa Osasun Ikerketa Institutua](https://www.biodonostia.org/eu/) zentroko [Laguntza Metodologikorako Unitatean](https://www.biodonostia.org/eu/laguntza-unitateak-zerbitzuak/laguntza-metodologikoaren-unitatea/) eta unibertsitateko irakaslea [Deustuko Unibertsitatean](https://www.deusto.eus/eu/hasiera), [Osasun Zientzien Fakultatean](https://www.deusto.eus/eu/hasiera/ikasi/ikasketak/gradua/fisioterapia). Modelizazio estatistikoaren ikerketa, softwarearen garapena eta estatistikak dituen aplikazioak interesatzen zaizkit. Batez ere, kirol medikuntzaren, epidemiologiaren eta biomedikuntzaren arloetan kokatzen diren aplikazioak.
+Kaixo! Bioestatistikaria naiz, irakaslea eta ikerlaria [Deustuko Unibertsitatean](https://www.deusto.eus/eu/hasiera), [Osasun Zientzien Fakultatean](https://www.deusto.eus/eu/hasiera/ikasi/ikasketak/gradua/fisioterapia). Modelizazio estatistikoaren ikerketa, softwarearen garapena eta estatistikak dituen aplikazioak interesatzen zaizkit. Batez ere, kirol medikuntzaren, epidemiologiaren eta biomedikuntzaren arloetan kokatzen diren aplikazioak.
 
-Matematika eta Estatistikan doktorea naiz. Doktore tesian metodo estatistikoen eta softwarearen garapenean egin nuen lan, lesioek futbol profesionalean duten arriskua eta eragina estimatzeko.
+Matematikako eta Estatistikako doktorea naiz. Doktore tesian metodo estatistikoak eta softwarearen garapena ikertu nituen, kirol-lesio arriskua estimatzeko futbol profesionalaren testuinguruan.
 
 
 [comment]: <> ({{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.)

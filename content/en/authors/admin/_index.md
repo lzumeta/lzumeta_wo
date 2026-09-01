@@ -6,12 +6,12 @@ title: Lore Zumeta Olaskoaga
 superuser: true
 
 # Role/position/tagline
-role: Biostatistical researcher
+role: Biostatistician, PhD
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Biogipuzkoa Health Research Institute
-    url: https://www.biodonostia.org/en/
+  - name: University of Deusto
+    url: https://www.deusto.es/en/home
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include survival analysis, mixed models and GAMs.
@@ -43,16 +43,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:lore.zumeta-olaskoaga@bio-gipuzkoa.eus'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/lorezmt
+    link: 'mailto:lore.zumeta@deusto.es'
   - icon: github
     icon_pack: fab
     link: https://github.com/lzumeta
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-6141-1469
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/lore-zumeta-olaskoaga-666406283/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -68,8 +68,8 @@ email: ''
 highlight_name: true
 ---
 
-I am a Biostatistical researcher at the [Biogipuzkoa Health Research Institute](https://www.biodonostia.org/en/) in the [Methodological Support Unit](https://www.biodonostia.org/en/support-units-services/methodological-support-unit/) and lecturer at the [University of Deusto](https://www.deusto.es/en/home), in the [Faculty of Health Sciences](https://www.deusto.es/en/home/study/courses/bachelors-degree/physiotherapy?_ga=2.259730383.418540566.1758983551-1478737693.1758983551). I am interested in statistical modelling research, software development and applications of statistics, in particular, to the fields of Sports Medicine, Epidemiology and Biomedicine.
+I am a biostatistician, lecturer and researcher at the [University of Deusto](https://www.deusto.es/en/home), in the [Faculty of Health Sciences](https://www.deusto.es/en/home/study/courses/bachelors-degree/physiotherapy?_ga=2.259730383.418540566.1758983551-1478737693.1758983551). I am interested in statistical modelling research, software development and applications of statistics, in particular, to the fields of Sports Medicine, Epidemiology and Biomedicine.
 
-I obtained a PhD in Mathematics and Statistics. My PhD focused on the development of statistical methods and software for the estimation of injury risk and incidence in the context of professional football. 
+I obtained my PhD in Mathematics and Statistics, where I investigated statistical methods and software for the estimation of injury risk in the context of professional football. 
 
 [comment]: <> ({{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.)

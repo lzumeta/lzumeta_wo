@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://link.springer.com/content/pdf/10.1007/s00477-026-03339-3.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
